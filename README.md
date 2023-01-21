@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 [![NaJaeMin92's GitHub stats](https://github-readme-stats.zohan.tech/api?username=NaJaeMin92&count_private=true&hide=prs,contribs&show_icons=true&include_all_commits=true&theme=slateorange)](https://github.com/NaJaeMin92)
 
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=NaJaeMin92&repo=FixBi&&theme=slateorange&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/FixBi)
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=NaJaeMin92&repo=CoVi&&theme=slateorange&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/CoVi)
+[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=FixBi&&theme=slateorange&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/FixBi)
+[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=CoVi&&theme=slateorange&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/CoVi)
