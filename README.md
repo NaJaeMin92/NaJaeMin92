@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=FixBi&&theme=slateorange&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/FixBi)
 [![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=CoVi&&theme=slateorange&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/CoVi)
+[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=Dual-Teacher&&theme=slateorange&langs_count=8&show_owner=False)](https://github.com/naver-ai/dual-teacher)
