@@ -22,6 +22,16 @@ Here are some ideas to get you started:
 
 [![NaJaeMin92's GitHub stats](https://github-readme-stats.zohan.tech/api?username=NaJaeMin92&count_private=true&hide=prs,issues,contribs&show_icons=true&include_all_commits=true&theme=one_dark_pro)](https://github.com/NaJaeMin92)
 
-[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=FixBi&&theme=one_dark_pro&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/FixBi)
-[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=CoVi&&theme=one_dark_pro&langs_count=8&show_owner=True)](https://github.com/NaJaeMin92/CoVi)
-[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=NaJaeMin92&repo=Dual-Teacher&&theme=one_dark_pro&langs_count=8&show_owner=True)](https://github.com/naver-ai/dual-teacher)
+<details open> 
+<!--   <summary><h2>📘 My Top Open Source Projects</h2></summary>
+ -->
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/NaJaeMin92/FixBi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=FixBi&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FixBi"></a>
+    <a href="https://github.com/NaJaeMin92/FixBi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=FixBi&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CoVi"></a>
+    <a href="https://github.com/NaJaeMin92/CoVi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=dual-teacher&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dual-teacher"></a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
