@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-    <a href="https://github.com/NaJaeMin92/FixBi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=FixBi&theme=react&bg_color=22272E&title_color=DF7A5F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FixBi"></a>
-    <a href="https://github.com/NaJaeMin92/Covi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=Covi&theme=react&bg_color=22272E&title_color=DF7A5F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CoVi"></a>
-    <a href="https://github.com/naver-ai/dual-teacher"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=dual-teacher&theme=react&bg_color=22272E&title_color=DF7A5F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dual-teacher"></a>
+    <a href="https://github.com/NaJaeMin92/FixBi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=FixBi&theme=react&bg_color=22272E&title_color=DF7A5F&hide_border=false&icon_color=F8D866&show_icons=false" alt="FixBi"></a>
+    <a href="https://github.com/NaJaeMin92/Covi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=Covi&theme=react&bg_color=22272E&title_color=DF7A5F&hide_border=false&icon_color=F8D866&show_icons=false" alt="CoVi"></a>
+    <a href="https://github.com/naver-ai/dual-teacher"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaJaeMin92&repo=dual-teacher&theme=react&bg_color=22272E&title_color=DF7A5F&&hide_border=false&icon_color=F8D866&show_icons=false" alt="Dual-teacher"></a>
 </p>
