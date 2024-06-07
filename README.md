@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Transfer Learning-7E4DD2?style=flat-square&logo=Aiqfome&logoColor=white"/></a>
 
-[![NaJaeMin92's GitHub stats](https://github-readme-stats.zohan.tech/api?username=NaJaeMin92&count_private=true&hide=prs,issues,contribs&show_icons=true&include_all_commits=true&theme=calm_pink)](https://github.com/NaJaeMin92)
+[![NaJaeMin92's GitHub stats](https://github-readme-stats.zohan.tech/api?username=NaJaeMin92&count_private=true&hide=prs,issues,contribs&show_icons=true&include_all_commits=true&theme=darcula)](https://github.com/NaJaeMin92)
 
 
 <!--   <summary><h2>📘 My Top Open Source Projects</h2></summary>
